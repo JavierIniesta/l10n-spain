@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2018 Tecnativa - Pedro M. Baeza
+     License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl). -->
+<odoo>
+
+    <record id="l10n_es_aeat_mod303.aeat_mod303_map_line_62" model="l10n.es.aeat.map.tax.line">
+        <field name="tax_ids" eval="[(6, False, [ref('l10n_es.account_tax_template_s_iva4b'), ref('l10n_es.account_tax_template_s_iva4s'), ref('l10n_es.account_tax_template_s_iva10b'), ref('l10n_es.account_tax_template_s_iva10s'), ref('l10n_es.account_tax_template_s_iva21b'), ref('l10n_es.account_tax_template_s_iva21s'), ref('l10n_es.account_tax_template_s_iva21isp')])]"/>
+    </record>
+
+    <record id="l10n_es_aeat_mod303.aeat_mod303_map_line_63" model="l10n.es.aeat.map.tax.line">
+        <field name="tax_ids" eval="[(6, False, [ref('l10n_es.account_tax_template_s_iva4b'), ref('l10n_es.account_tax_template_s_iva4s'), ref('l10n_es.account_tax_template_s_iva10b'), ref('l10n_es.account_tax_template_s_iva10s'), ref('l10n_es.account_tax_template_s_iva21b'), ref('l10n_es.account_tax_template_s_iva21s'), ref('l10n_es.account_tax_template_s_iva21isp')])]"/>
+    </record>
+
+    <record id="l10n_es_aeat_mod303.aeat_mod303_map_line_74" model="l10n.es.aeat.map.tax.line">
+        <field name="tax_ids" eval="[(6, False, [ref('l10n_es.account_tax_template_p_iva4_sc'), ref('l10n_es.account_tax_template_p_iva4_bc'), ref('l10n_es.account_tax_template_p_iva10_sc'), ref('l10n_es.account_tax_template_p_iva10_bc'), ref('l10n_es.account_tax_template_p_iva21_sc'), ref('l10n_es.account_tax_template_p_iva21_bc'), ref('l10n_es.account_tax_template_p_iva12_agr')])]"/>
+    </record>
+
+    <record id="l10n_es_aeat_mod303.aeat_mod303_map_line_75" model="l10n.es.aeat.map.tax.line">
+        <field name="tax_ids" eval="[(6, False, [ref('l10n_es.account_tax_template_p_iva4_sc'), ref('l10n_es.account_tax_template_p_iva4_bc'), ref('l10n_es.account_tax_template_p_iva10_sc'), ref('l10n_es.account_tax_template_p_iva10_bc'), ref('l10n_es.account_tax_template_p_iva21_sc'), ref('l10n_es.account_tax_template_p_iva21_bc'), ref('l10n_es.account_tax_template_p_iva12_agr')])]"/>
+    </record>
+
+</odoo>
